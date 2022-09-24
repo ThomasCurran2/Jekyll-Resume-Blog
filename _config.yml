@@ -92,6 +92,10 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-environment-variables
+  
+ scholar:
+  style: _bibliography/papers.bib
+  
 sass:
   sass_dir: _sass
   style: compressed
